@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://l10n.dev">
-    <img src="./content/banner.jpg" width="100%" alt="L10n.dev" />
+    <img src="../content/banner.jpg" width="100%" alt="L10n.dev" />
   </a>
 </p>
 
