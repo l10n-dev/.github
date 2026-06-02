@@ -18,6 +18,14 @@ CLI and TypeScript API for Node.js projects. Integrates with CI/CD pipelines and
 
 Translate i18n files without leaving your IDE. Supports i18next, ICU, JSON, and ARB formats.
 
+### **[Obsidian Plugin](https://github.com/l10n-dev/obsidian-plugin-ai-translator)** - Translate notes with AI. 
+
+Preserves Markdown formatting and structure — translates note content without breaking syntax or layout.
+
+### **[Strapi Plugin](https://github.com/l10n-dev/strapi-plugin-ai-translator)** - Auto translation with AI. 
+
+Strapi v5 plugin to translate i18n content with l10n.dev AI translation service directly from the Admin Panel.
+
 ### **Explore More**
 
 Discover our full suite of integrations at [l10n.dev/#integrations](https://l10n.dev/#integrations)
